@@ -1,0 +1,29 @@
+body{
+    background-color: #fcfcfc;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    color: #7c7c7c;
+    text-decoration: none;
+}
+ul li {
+    list-style: none;
+}
+a:hover{
+    color: red;
+}
+
+
+.hideme{
+    display: none;
+}
+
+#centerColumn{
+    margin-bottom: 200px;
+}
+
+#footer{
+    background-color: #7c7c7c;
+    padding: 20px;
+}
